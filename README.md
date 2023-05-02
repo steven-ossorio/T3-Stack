@@ -1,2 +1,10 @@
 # T3-Stack
-Giving a try to Theo T3 stack 
+
+## Learn Fullstack development with T3 without the need of using a seperate backend from NextJS
+
+## Tech
+
+- NextJS
+- NextAuth
+- TRPC
+- Prisma
